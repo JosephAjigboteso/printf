@@ -1,1 +1,1 @@
-This is a team project of creating our own printf function just like the original
+This is a team project for creating our own printf function just like the original
